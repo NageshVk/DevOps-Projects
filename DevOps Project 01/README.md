@@ -38,7 +38,7 @@ aws configure
 - Attach the role `eks-admin ` to the cluster.
 - Everthing else can be left with default settings.
 
--Click 'Create'. This process will take 10-12 minutes. Wait till your cluster shows up as Active. Now you can add Node Group to your cluster.
+- Click 'Create'. This process will take 10-12 minutes. Wait till your cluster shows up as Active. Now you can add Node Group to your cluster.
 
 ### Step 3: IAM configuration for Node Group
 - Create a user `eks-nodegrp` with `AmazonEC2ContainerRegistryReadOnly`,`AmazonEKS_CNI_Policy`and `AmazonEKSWorkerNodePolicy`
