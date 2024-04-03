@@ -101,7 +101,7 @@ kubectl apply -f mygame-svc.yaml
 kubectl describe svc mygame-svc
 
 ### Step 8: Access the pod via Load Balancer
-curl <LoadBalancer_Ingress>:<Poer_number>
+curl <LoadBalancer_Ingress>:<Port_number>
 - Get the ELB DNS from the EC2 Management console.
 
 
