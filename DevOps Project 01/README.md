@@ -56,7 +56,7 @@ aws configure
 aws eks update-kubeconfig --region region-code --name eks-cluster
 ```
 
-###Step 6: Create the pod
+### Step 6: Create the pod
 
 ```
 apiVersion: v1
