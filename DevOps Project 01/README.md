@@ -33,7 +33,7 @@ aws configure
 - Create a role `eks-admin` with `AmazonEKSClusterPolicy`.
 - Generate Security Credentials: Access Key and Secret Access Key.
 
-- ### Step 2: Setup EKS Cluster
+### Step 2: Setup EKS Cluster
 - Create an EKS cluster from AWS mangement console.
 - Attach the role `eks-admin ` to the cluster.
 - Everthing else can be left with default settings.
