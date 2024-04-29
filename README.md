@@ -1,4 +1,4 @@
-# DevOps-Projects
+# DevOps Projects
 In this repository I will upload my projects on DevOps and also Integration of DevOps technology with other technologies like Machine Learning, Git/Github, etc.<br>
 
 <a href="https://github.com/NageshVk/DevOps-Projects/tree/main/DevOps%20Project%2001">Project 01: Deploying 2048 Game App on Amazon EKS</a><br>
